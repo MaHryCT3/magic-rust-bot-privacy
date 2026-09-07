@@ -2,11 +2,11 @@
 title: Privacy Policy
 ---
 
-# Magic Rust Discord Bot Privacy Policy
+# MagicRustReport Privacy Policy
 
 **Effective date:** September 7, 2026
 
-This Privacy Policy explains how the Magic Rust Discord Bot (the **“Bot”**) processes information when providing its community management and support features.
+This Privacy Policy explains how the MagicRustReport Discord bot (the **“Bot”**) processes information when providing its community moderation and support features.
 
 ## Information we process
 
